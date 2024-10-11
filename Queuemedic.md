@@ -9,10 +9,11 @@ sudo ./auto_deploy.sh queuemedic.tar
 
 ### 2) Nos dirigimos al navegador e ingresamos la dirección http://172.17.0.2.
 ![[Pasted image 20240925173823.png]]
-*Al ingresar a la url se carga un formulario de acceso.*
+***Al ingresar a la url se carga un formulario de acceso.***
 
 ![](ANEXOS/Pasted%20image%2020240925180151.png)
-*Analizando la web con wappalyzer no se encontró ninguna información que nos pueda llamar la atención para investigar.*
+
+***Analizando la web con wappalyzer no se encontró ninguna información que nos pueda llamar la atención para investigar.***
 
 ### 3) Realizamos un escaneo de puertos con nmap.
 ```shell
