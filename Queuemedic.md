@@ -10,7 +10,7 @@ sudo ./auto_deploy.sh queuemedic.tar
 ### 2) Nos dirigimos al navegador e ingresamos la dirección http://172.17.0.2.
 ![](ANEXOS/Pasted%20image%2020240925173823.png)
 
-**Al ingresar a la url se carga un formulario de acceso.**
+***Al ingresar a la url se carga un formulario de acceso.***
 
 ![](ANEXOS/Pasted%20image%2020240925180151.png)
 
