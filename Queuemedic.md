@@ -22,6 +22,7 @@ nmap -sV -Pn 172.17.0.2
 ```
 
 ![](ANEXOS/Pasted%20image%2020240925174021.png)
+
 ***Al terminar el proceso se encontró un solo puerto abierto el 80 con un servidor Apache.***
 
 ### 4) Realizamos una búsqueda de carpetas y archivos con gobuster.
@@ -31,16 +32,19 @@ gobuster dir -u http://172.17.0.2 -w /usr/share/wordlists/dirb/common.txt --excl
 ```
 
 ![](ANEXOS/Pasted%20image%2020240925174813.png)
+
 ***Al terminar el proceso se encontro con varias carpetas con posibles datos sensibles ellas son /backup y /db.***
 
 ### 5) Nos dirigimos a la url de /backup http://172.17.0.2/backup.
 
 ![](ANEXOS/Pasted%20image%2020240925175148.png)
+
 ***Al ingresar vemos un archivo con extensión .zip lo cual procedemos a descargarlo para su posterior análisis.***
 
 ### 6) Nos dirigimos a la url de /db http://172.17.0.2/db.
  
 ![](ANEXOS/Pasted%20image%2020240925175503.png)
+
 ***Al ingresar observamos un archivo con extensión .db lo cual procedemos a descargarlo para su posterior análisis.***
 
 ### 7) Analizamos los archivos descargados:
@@ -66,8 +70,10 @@ gobuster dir -u http://172.17.0.2 -w /usr/share/wordlists/dirb/common.txt --excl
 
 ### 9) Volviendo la pagina principal en el login http://172.17.0.2.
 ![](ANEXOS/Pasted%20image%2020240925184644.png)
+
 ***Iniciamos sesión con las credenciales obtenidas.***
 ![](ANEXOS/Pasted%20image%2020240925184845.png)
+
 ***Analizando la pagina web ademas de un xss en el registro de usuarios y pasientes no se encontro.***
 
 ### 10) Busueda de Clinic Queuing System (php) en google.
