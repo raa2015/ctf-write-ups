@@ -1,4 +1,4 @@
-##1) Iniciamos la maquina.
+## 1) Iniciamos la maquina.
 ```bash
 sudo ./auto_deploy.sh queuemedic.tar
 ```
