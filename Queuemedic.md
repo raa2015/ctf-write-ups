@@ -83,6 +83,7 @@ b) ***Para obtener una lista con posibles contraseña para el usuario "Jessica C
 
 ### 10) Busueda de Clinic Queuing System (php) en google.
 ![](ANEXOS/Pasted%20image%2020240925185754.png)
+
 ***Al realizar la búsqueda en google no encontramos con el cms pero también arrojo en exploit-db un exploit en el cual se pude obtener RCE.***
 
 ### 11) Descarga https://www.exploit-db.com/exploits/52008 y análisis del exploit.
