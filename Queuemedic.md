@@ -48,25 +48,30 @@ gobuster dir -u http://172.17.0.2 -w /usr/share/wordlists/dirb/common.txt --excl
 ***Al ingresar observamos un archivo con extensión .db lo cual procedemos a descargarlo para su posterior análisis.***
 
 ### 7) Analizamos los archivos descargados:
-	a) Descomprimimos y verificamos el contenido del archivo backup.zip.	
+a) Descomprimimos y verificamos el contenido del archivo backup.zip.	
 	
-	![](ANEXOS/Pasted%20image%2020240925175854.png)
-	***Nos encontramos con un backup completo del sistema Clinic Queuing System, en el cual realizando un análisis de cada archivo se encontró una posible vulnerabilidad en "index.php "en el método que utiliza para llamar a "page".***
+![](ANEXOS/Pasted%20image%2020240925175854.png)
+
+***Nos encontramos con un backup completo del sistema Clinic Queuing System, en el cual realizando un análisis de cada archivo se encontró una posible vulnerabilidad en "index.php "en el método que utiliza para llamar a "page".***
 	
-	b) Abrimos el archivo clinic_queuing_db.db con sqlitebrowser.
-	
-	![](ANEXOS/Pasted%20image%2020240925180826.png)
-	***Al abrir la base de datos podemos ver las tablas de la db y desplegamos la tabla user_list***
-	![](ANEXOS/Pasted%20image%2020240925181901.png)
-	***Al realizar la consulta sobre esta tabla user_list, se puede observar el contenido del mismo con los datos de username y password en la cual esta encriptada.***
+b) Abrimos el archivo clinic_queuing_db.db con sqlitebrowser.
+
+![](ANEXOS/Pasted%20image%2020240925180826.png)
+
+***Al abrir la base de datos podemos ver las tablas de la db y desplegamos la tabla user_list***
+
+![](ANEXOS/Pasted%20image%2020240925181901.png)
+
+***Al realizar la consulta sobre esta tabla user_list, se puede observar el contenido del mismo con los datos de username y password en la cual esta encriptada.***
 	
 ### 8) Ataque de diccionario a los hashes encontrados.
-	a) ***Al realizar el ataque por fuerza bruta no se pudo obtener la contraseña de Administrador.***
-	b) ***Para obtener una lista con posibles contraseña para el usuario "Jessica Castro" utilizamos ChatGpt en el cual nos brinda una lista de 100 posibles contraseñas.***
+a) ***Al realizar el ataque por fuerza bruta no se pudo obtener la contraseña de Administrador.***
+b) ***Para obtener una lista con posibles contraseña para el usuario "Jessica Castro" utilizamos ChatGpt en el cual nos brinda una lista de 100 posibles contraseñas.***
 	
-	![](ANEXOS/Pasted%20image%2020240925183606.png)
-	![](ANEXOS/Pasted%20image%2020240925183512.png)
-	c) ***Al finalizar el ataque por fuerza bruta con john the ripper pudo obtener una contraseña que concuerda con el hash del usuario "jessica" la cual es "j.castro".***
+![](ANEXOS/Pasted%20image%2020240925183606.png)
+![](ANEXOS/Pasted%20image%2020240925183512.png)
+
+c) ***Al finalizar el ataque por fuerza bruta con john the ripper pudo obtener una contraseña que concuerda con el hash del usuario "jessica" la cual es "j.castro".***
 
 ### 9) Volviendo la pagina principal en el login http://172.17.0.2.
 ![](ANEXOS/Pasted%20image%2020240925184644.png)
@@ -83,20 +88,22 @@ gobuster dir -u http://172.17.0.2 -w /usr/share/wordlists/dirb/common.txt --excl
 ### 11) Descarga https://www.exploit-db.com/exploits/52008 y análisis del exploit.
 
 ### 12) Al descargar y ejecutar el exploit vemos que no realiza la explotación del servicio.
-	![](ANEXOS/Pasted%20image%2020241011082236.png)
+![](ANEXOS/Pasted%20image%2020241011082236.png)
 
 ### 13) Analizando en detalle el código del sitio y el exploit encontré que había unas validaciones que hace la pagina por lo cual el exploit no puede realizar correctamente su cometido. 
 
 ### 14) Fijándome mas en detalle tengo acceso a un usuario que es administrador y en el exploit crea un usuario administrador entonces lo que se me ocurrió a analizar en que parámetros inyecta para obtener un RCE.
-	![](ANEXOS/Pasted%20image%2020241011083138.png)
+![](ANEXOS/Pasted%20image%2020241011083138.png)
 
 ### 15) Como se observa en la imagen el exploit inyecta en el parámetro `?page=` un `filter_chain` y después en el parámetro `&0=`, crea el archivo `rce.php` y escribe el contendido ``<?=`$_GET[0]`?>`` parseado en base64.
 
 ### 16) Entonces lo que tuve que hacer es unir todo el contenido de la variable `filter_chain` mas el parámetro 0 y ejecutarlo directamente en el navegador.
-	![](ANEXOS/Pasted%20image%2020241011085843.png)
-	***El `filter_chain` es mas extenso pero así quedaría para inyectarlo directamente al navegador.***
-	![](ANEXOS/Pasted%20image%2020241011090029.png)
-	***Ya tengo ejecución de comandos ***
+![](ANEXOS/Pasted%20image%2020241011085843.png)
+
+***El `filter_chain` es mas extenso pero así quedaría para inyectarlo directamente al navegador.***
+![](ANEXOS/Pasted%20image%2020241011090029.png)
+
+***Ya tengo ejecución de comandos ***
 
 ### 17) Ahora creo una reverse shell utilizando python3.
 
