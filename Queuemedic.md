@@ -8,7 +8,7 @@ sudo ./auto_deploy.sh queuemedic.tar
 ![](ANEXOS/Pasted%20image%2020240925173632.png)
 
 ### 2) Nos dirigimos al navegador e ingresamos la dirección http://172.17.0.2.
-![[Pasted image 20240925173823.png]]
+![](ANEXOS/Pasted%20image%2020240925173823.png)
 ***Al ingresar a la url se carga un formulario de acceso.***
 
 ![](ANEXOS/Pasted%20image%2020240925180151.png)
