@@ -71,7 +71,7 @@ b) ***Para obtener una lista con posibles contraseña para el usuario "Jessica C
 ![](ANEXOS/Pasted%20image%2020240925183606.png)
 ![](ANEXOS/Pasted%20image%2020240925183512.png)
 
-c) ***Al finalizar el ataque por fuerza bruta con john the ripper pudo obtener una contraseña que concuerda con el hash del usuario "jessica" la cual es "j.castro".***
+***Al finalizar el ataque por fuerza bruta con john the ripper pudo obtener una contraseña que concuerda con el hash del usuario "jessica" la cual es "j.castro".***
 
 ### 9) Volviendo la pagina principal en el login http://172.17.0.2.
 ![](ANEXOS/Pasted%20image%2020240925184644.png)
