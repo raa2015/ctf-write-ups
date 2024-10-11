@@ -104,7 +104,7 @@ b) ***Para obtener una lista con posibles contraseña para el usuario "Jessica C
 
 ![](ANEXOS/Pasted%20image%2020241011090029.png)
 
-***Ya tengo ejecución de comandos ***
+***Ya tengo ejecución de comandos***
 
 ### 17) Ahora creo una reverse shell utilizando python3.
 
