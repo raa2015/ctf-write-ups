@@ -2,8 +2,7 @@
 ```bash
 sudo ./auto_deploy.sh queuemedic.tar
 ```
-![Miniatura YouTube curso SEO 3D morado (1)](https://user-images.githubusercontent.com/85022752/235784580-772ff958-642e-49fe-9a74-2f5980e4ff7f.jpg)
-![Diagrama del sistema](ANEXOS/Pasted image 20240925173632.png)
+![Diagrama del sistema](./ANEXOS/Pasted image 20240925173632.png)
 
 ### 2) Nos dirigimos al navegador e ingresamos la dirección http://172.17.0.2.
 ![./ANEXOS/Pasted image 20240925173823.png]
