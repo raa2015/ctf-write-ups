@@ -1,0 +1,521 @@
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=q0001 word=zoo range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0001 size=1024 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0002 size=1024 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0003 size=512 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0004 size=256 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0005 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0006 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0007 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0008 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0008 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0009 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0009 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0010 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0010 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0011 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0011 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0012 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0012 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0012 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0013 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0013 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0013 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0014 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0014 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0014 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0015 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0015 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0015 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0016 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0016 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0016 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0017 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0017 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0017 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0018 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0018 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0018 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] more
+[visit] token=q0019 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0019 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0019 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0020 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0020 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0020 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0021 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0021 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0021 size=256 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0022 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0022 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0022 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0023 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0023 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0023 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0024 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0024 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0024 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0025 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0025 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0025 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0026 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0026 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0026 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0027 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0027 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0027 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0028 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0028 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0028 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0029 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0029 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0029 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0030 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0030 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0030 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0031 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0031 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0031 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0032 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0032 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0032 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0033 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0033 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0033 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] phrase
+[visit] token=q0034 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0034 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0034 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0035 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0035 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0035 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0036 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0036 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0036 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0037 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0037 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0037 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0038 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0038 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0038 size=512 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0039 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0039 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0039 size=256 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0040 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0040 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0040 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0041 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0041 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0041 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0042 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0042 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0042 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0043 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0043 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0043 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0044 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0044 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0044 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0045 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0045 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0045 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0046 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0046 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0046 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0047 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0047 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0047 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0048 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0048 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0048 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0049 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0049 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0049 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0050 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0050 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0050 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0051 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0051 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0051 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0052 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0052 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0052 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] square
+[visit] token=q0053 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0053 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0053 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0054 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0054 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0054 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0055 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0055 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0055 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0056 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0056 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0056 size=256 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0057 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0057 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0057 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0058 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0058 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0058 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0059 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0059 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0059 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0060 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0060 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0060 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0061 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0061 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0061 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0062 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0062 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0062 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0063 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0063 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0063 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0064 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0064 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0064 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0065 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0065 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0065 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] then
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=q0001 word=zoo range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0001 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0002 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0003 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0004 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0005 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0006 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0007 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0008 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0008 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0009 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0009 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] ball
+[visit] token=q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0010 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0010 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0011 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0011 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0012 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0012 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0012 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0013 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0013 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0013 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0014 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0014 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0014 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0015 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0015 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0015 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0016 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0016 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0016 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0017 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0017 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0017 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0018 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0018 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0018 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] couch
+[visit] token=q0019 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0019 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0019 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0020 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0020 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0020 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0021 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0021 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0021 size=128 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0022 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0022 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0022 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0023 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0023 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0023 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0024 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0024 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0024 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0025 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0025 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0025 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0026 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0026 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0026 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0027 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0027 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0027 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0028 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0028 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0028 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] friend
+[visit] token=q0029 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0029 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0029 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0030 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0030 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0030 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0031 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0031 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0031 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0032 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0032 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0032 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0033 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0033 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0033 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0034 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0034 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0034 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0035 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0035 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0035 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0036 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0036 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0036 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0037 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0037 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0037 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0038 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0038 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0038 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0039 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0039 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0039 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] neutral
+[visit] token=q0040 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0040 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0040 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0041 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0041 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0041 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0042 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0042 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0042 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0043 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0043 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0043 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0044 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0044 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0044 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0045 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0045 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0045 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0046 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0046 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0046 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0047 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0047 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0047 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] pilot
+[visit] token=q0048 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0048 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0048 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0049 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0049 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0049 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0050 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0050 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0050 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0051 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0051 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0051 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0052 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0052 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0052 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0053 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0053 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0053 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0054 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0054 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0054 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0055 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0055 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0055 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0056 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0056 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0056 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0057 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0057 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0057 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0058 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0058 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0058 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0059 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0059 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0059 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0060 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0060 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0060 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0061 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0061 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0061 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0062 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0062 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0062 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] then
+[visit] token=q0063 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0063 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0063 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0064 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0064 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0064 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0065 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0065 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0065 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0066 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0066 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0066 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0067 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0067 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0067 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0068 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0068 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0068 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0069 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0069 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0069 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0070 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0070 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0070 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0071 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0071 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0071 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0072 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0072 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0072 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0073 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0073 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0073 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=q0074 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0074 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0074 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] very
+[visit] token=q0075 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0075 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0075 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0076 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0076 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0076 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0077 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0077 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0077 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0078 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0078 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0078 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0079 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0079 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0079 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0080 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0080 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0080 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0081 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0081 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0081 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0082 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0082 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0082 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0083 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0083 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0083 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0084 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0084 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0084 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0085 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0085 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0085 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0086 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0086 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0086 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0087 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0087 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0087 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0088 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0088 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0088 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0089 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0089 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0089 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0090 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0090 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0090 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0091 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0091 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0091 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0092 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0092 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0092 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0093 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0093 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0093 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0094 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0094 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0094 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0095 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0095 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0095 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0096 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0096 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0096 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0097 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0097 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0097 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0098 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0098 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0098 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0099 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0099 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0099 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0100 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0100 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0100 size=1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0101 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0101 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0101 size=1 state={"oracle_hit": true, "z_hit": true}
+[done] found 7 candidate words -> /media/p0mb3r0/4tb/CTF/ctf-metared/beginner/memento/cha/bugbounty-claude/datos/web/diceex/found_words.txt
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=q0001 word=ball range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0002 word=ball range=7-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0003 word=couch range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0004 word=couch range=7-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0005 word=friend range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0006 word=friend range=7-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0007 word=neutral range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=q0001 word=ball range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (2/3 active)"}
+[query_pos] token=q0002 word=couch range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (3/3 active)"}
+[query_pos] token=q0003 word=friend range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (3/3 active)"}
+[query_pos] token=q0004 word=neutral range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (3/3 active)"}
+[query_pos] token=q0005 word=pilot range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (3/3 active)"}
+[query_pos] token=q0006 word=then range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (3/3 active)"}
+[query_pos] token=q0007 word=very range=1-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0001 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0002 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0003 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0004 size=128 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0005 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0006 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0007 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0008 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0008 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0009 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0009 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0010 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0010 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0011 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0011 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0012 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0012 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0012 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0013 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0013 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0013 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0014 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0014 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0014 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0015 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0015 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0015 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0016 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0016 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0016 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0017 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0017 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0017 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0018 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0018 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0018 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0019 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0019 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0019 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0020 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0020 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0020 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0021 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0021 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0021 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0022 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0022 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0022 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0023 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0023 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0023 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0024 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0024 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0024 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0025 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0025 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0025 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0026 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0026 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0026 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0027 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0027 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0027 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0028 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0028 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0028 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0029 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0029 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0029 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0030 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0030 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0030 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0031 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0031 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0031 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0032 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0032 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0032 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0033 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0033 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0033 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0034 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0034 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0034 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0035 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0035 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0035 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0036 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0036 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0036 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0037 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0037 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0037 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0038 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0038 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0038 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0039 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0039 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0039 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0040 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0040 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0040 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0041 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0041 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0041 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0042 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0042 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0042 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0043 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0043 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0043 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0044 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0044 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0044 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0045 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0045 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0045 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0046 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0046 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0046 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0047 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0047 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0047 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0048 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0048 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0048 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0049 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0049 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0049 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0050 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0050 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0050 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0051 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0051 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0051 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0052 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0052 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0052 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0053 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0053 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0053 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0054 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0054 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0054 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0055 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0055 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0055 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0056 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0056 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0056 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0057 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0057 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0057 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0058 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0058 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0058 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0059 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0059 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0059 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0060 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0060 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0060 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0061 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0061 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0061 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0062 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0062 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0062 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0063 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0063 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0063 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0064 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0064 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0064 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0065 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0065 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0065 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0066 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0066 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0066 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0067 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0067 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0067 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0068 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0068 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0068 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0069 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0069 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0069 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0070 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0070 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0070 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0071 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0071 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0071 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0072 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0072 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0072 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0073 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0073 for up to 45 seconds... (2/3 active)"}

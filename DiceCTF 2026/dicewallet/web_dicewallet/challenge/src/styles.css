@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+  --color-neo-bg: #FFFDF5;
+  --color-neo-fg: #000000;
+  --color-neo-accent: #FF6B6B;
+  --color-neo-secondary: #FFD93D;
+  --color-neo-muted: #C4B5FD;
+  --color-neo-white: #FFFFFF;
+
+  --shadow-neo-sm: 4px 4px 0px 0px #000;
+  --shadow-neo-md: 6px 6px 0px 0px #000;
+  --shadow-neo-lg: 8px 8px 0px 0px #000;
+  --shadow-neo-xl: 12px 12px 0px 0px #000;
+  --shadow-neo-none: 0px 0px 0px 0px #000;
+
+  --font-family-sans: 'Space Grotesk', sans-serif;
+
+  --animate-spin-slow: spin-slow 10s linear infinite;
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@layer base {
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/SpaceGrotesk-Variable.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-spin-slow, .animate-bounce, .animate-pulse {
+    animation: none !important;
+  }
+}
+
+/* ── Extension popup sizing ─────────────────────────────
+   Fill whatever viewport Chrome gives us — works for both
+   the action popup and standalone confirmation windows.  */
+html {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  width: 380px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  overflow-y: overlay;
+  overflow-x: hidden;
+  background-color: var(--color-neo-bg);
+  color: var(--color-neo-fg);
+  font-family: var(--font-family-sans);
+  font-weight: 700;
+}
+
+/* Standalone window mode (confirmation popups) — fill the viewport */
+@media (min-width: 381px) {
+  body { width: 100%; height: 100%; }
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Every direct child of #app (the page wrapper) should
+   also stretch to fill the available space.             */
+#app > * {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0%;
+}
+
+/* Halftone pattern utility */
+.bg-halftone {
+  background-image: radial-gradient(#000 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+/* Grid pattern utility */
+.bg-grid {
+  background-size: 32px 32px;
+  background-image:
+    linear-gradient(to right, rgba(0,0,0,0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0,0,0,0.06) 1px, transparent 1px);
+}
+
+/* Text stroke for display type */
+.text-stroke {
+  -webkit-text-stroke: 2px black;
+  color: transparent;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--color-neo-bg); }
+::-webkit-scrollbar-thumb {
+  background: #000;
+  border: 2px solid var(--color-neo-bg);
+}

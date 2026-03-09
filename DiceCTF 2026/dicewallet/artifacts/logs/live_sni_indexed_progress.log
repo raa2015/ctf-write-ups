@@ -1,0 +1,518 @@
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0001 size=1 state={"oracle_hit": true, "z_hit": true}
+[done] found 0 indexed candidate words -> /media/p0mb3r0/4tb/CTF/ctf-metared/beginner/memento/cha/bugbounty-claude/datos/web/diceex/found_words_indexed.txt
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0001 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0002 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0003 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0004 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0005 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0006 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0007 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0008 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0008 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0009 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0009 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0010 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0010 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0011 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0011 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=q0001 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0002 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0002 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0003 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0003 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0004 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0004 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0005 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0005 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0006 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0006 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0007 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0007 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0008 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0008 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0009 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0009 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0010 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0010 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0011 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0011 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0012 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0012 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0012 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0013 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0013 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0013 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0014 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0014 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0014 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0015 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0015 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0015 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0016 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0016 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0016 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0017 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0017 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0017 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0018 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0018 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0018 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0019 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0019 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0019 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0020 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0020 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0020 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0021 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0021 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0021 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0022 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0022 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0022 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0023 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0023 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0023 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0024 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0024 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0024 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0025 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0025 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0025 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0026 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0026 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0026 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0027 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0027 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0027 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0028 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0028 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0028 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0029 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0029 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0029 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0030 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0030 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0030 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0031 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0031 for up to 45 seconds... (3/3 active)"}
+[query_words] token=q0031 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=q0032 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=q0032 for up to 45 seconds... (2/3 active)"}
+[query_words] token=q0032 size=64 state={"oracle_hit": true, "z_hit": true}
+[done] found 0 indexed candidate words -> /media/p0mb3r0/4tb/CTF/ctf-metared/beginner/memento/cha/bugbounty-claude/datos/web/diceex/found_words_indexed.txt
+[visit] token=r1773007868-q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0001 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0002 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0002 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0003 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0003 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0004 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0004 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0005 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0005 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0006 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0006 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0007 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0007 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] also
+[visit] token=r1773007868-q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0008 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0008 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0009 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0009 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0010 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0010 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0011 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0011 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0012 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0012 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0012 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0013 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0013 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0013 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0014 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0014 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0014 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0015 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0015 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0015 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] awesome
+[visit] token=r1773007868-q0016 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0016 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0016 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0017 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0017 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0017 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0018 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0018 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0018 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0019 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0019 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0019 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0020 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0020 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0020 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0021 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0021 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0021 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0022 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0022 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0022 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0023 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0023 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0023 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0024 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0024 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0024 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0025 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0025 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0025 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] citizen
+[visit] token=r1773007868-q0026 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0026 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0026 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0027 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0027 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0027 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0028 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0028 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0028 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0029 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0029 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0029 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0030 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0030 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0030 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0031 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0031 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0031 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0032 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0032 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0032 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] company
+[visit] token=r1773007868-q0033 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0033 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0033 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0034 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0034 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0034 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0035 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0035 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0035 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0036 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0036 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0036 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0037 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0037 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0037 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0038 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0038 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0038 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0039 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0039 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0039 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] cool
+[visit] token=r1773007868-q0040 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0040 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0040 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0041 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0041 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0041 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0042 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0042 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0042 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0043 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0043 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0043 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0044 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0044 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0044 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0045 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0045 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0045 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0046 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0046 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0046 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0047 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0047 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0047 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] dice
+[visit] token=r1773007868-q0048 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0048 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0048 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0049 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0049 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0049 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0050 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0050 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0050 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0051 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0051 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0051 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0052 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0052 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0052 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0053 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0053 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0053 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0054 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0054 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0054 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0055 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0055 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0055 size=4 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0056 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0056 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0056 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0057 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0057 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0057 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] friend
+[visit] token=r1773007868-q0058 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0058 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0058 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0059 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0059 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0059 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0060 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0060 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0060 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0061 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0061 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0061 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0062 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0062 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0062 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0063 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0063 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0063 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0064 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0064 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0064 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0065 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0065 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0065 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] group
+[visit] token=r1773007868-q0066 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0066 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0066 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0067 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0067 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0067 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0068 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0068 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0068 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0069 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0069 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0069 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0070 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0070 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0070 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0071 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0071 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0071 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0072 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0072 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0072 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0073 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0073 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0073 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0074 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0074 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0074 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0075 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0075 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0075 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0076 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0076 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0076 size=2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0077 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0077 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0077 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] more
+[visit] token=r1773007868-q0078 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0078 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0078 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0079 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0079 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0079 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0080 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0080 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0080 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0081 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0081 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0081 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0082 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0082 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0082 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0083 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0083 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0083 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0084 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0084 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0084 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0085 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0085 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0085 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0086 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0086 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0086 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0087 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0087 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0087 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0088 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0088 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0088 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0089 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0089 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0089 size=8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0090 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0090 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0090 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0091 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0091 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0091 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0092 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0092 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0092 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] square
+[visit] token=r1773007868-q0093 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0093 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0093 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0094 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0094 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0094 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0095 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0095 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0095 size=32 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0096 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0096 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0096 size=16 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0097 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0097 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0097 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0098 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0098 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0098 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0099 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0099 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0099 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0100 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0100 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0100 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] then
+[visit] token=r1773007868-q0101 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0101 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0101 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0102 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0102 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0102 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0103 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0103 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0103 size=64 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0104 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0104 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0104 size=32 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0105 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0105 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0105 size=16 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0106 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0106 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0106 size=8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0107 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0107 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0107 size=4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0108 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0108 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0108 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773007868-q0109 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0109 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0109 size=1 state={"oracle_hit": true, "z_hit": true}
+[word] very
+[visit] token=r1773007868-q0110 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0110 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0110 size=64 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773007868-q0111 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773007868-q0111 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773007868-q0111 size=40 state={"oracle_hit": true, "z_hit": true}
+[done] found 12 indexed candidate words -> /media/p0mb3r0/4tb/CTF/ctf-metared/beginner/memento/cha/bugbounty-claude/datos/web/diceex/found_words_indexed.txt
+[visit] token=r1773010287-q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0001 word=also range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010287-q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0002 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0002 word=also range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010287-q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0003 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0003 word=also range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010287-q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0004 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0004 word=also range=7-9 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010287-q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0005 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0005 word=also range=7-8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010287-q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0006 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0006 word=also range=7-7 state={"oracle_hit": false, "z_hit": true}
+[position] also -> 7
+[visit] token=r1773010287-q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0007 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0007 word=also range=8-8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010287-q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0008 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0008 word=also range=9-9 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010287-q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0009 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0009 word=also range=10-12 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010287-q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010287-q0010 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010287-q0010 word=awesome range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0001 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0001 word=also range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0002 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0002 word=also range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0003 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0003 word=also range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0004 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0004 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0004 word=also range=7-9 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0005 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0005 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0005 word=also range=7-8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0006 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0006 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0006 word=also range=7-7 state={"oracle_hit": false, "z_hit": true}
+[position] also -> 7
+[visit] token=r1773010537-q0007 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0007 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0007 word=awesome range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0008 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0008 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0008 word=awesome range=1-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0009 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0009 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0009 word=awesome range=1-3 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0010 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0010 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0010 word=awesome range=4-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0011 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0011 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0011 word=awesome range=4-5 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0012 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0012 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0012 word=awesome range=6-6 state={"oracle_hit": false, "z_hit": true}
+[position] awesome -> 6
+[visit] token=r1773010537-q0013 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0013 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0013 word=citizen range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0014 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0014 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0014 word=citizen range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0015 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0015 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0015 word=citizen range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0016 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0016 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0016 word=citizen range=7-9 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0017 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0017 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0017 word=citizen range=10-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0018 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0018 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0018 word=citizen range=10-11 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0019 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0019 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0019 word=citizen range=12-12 state={"oracle_hit": false, "z_hit": true}
+[position] citizen -> 12
+[visit] token=r1773010537-q0020 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0020 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0020 word=company range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0021 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0021 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0021 word=company range=1-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0022 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0022 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0022 word=company range=1-3 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0023 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0023 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0023 word=company range=4-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0024 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0024 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0024 word=company range=4-5 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0025 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0025 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0025 word=company range=4-4 state={"oracle_hit": false, "z_hit": true}
+[position] company -> 4
+[visit] token=r1773010537-q0026 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0026 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0026 word=cool range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0027 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0027 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0027 word=cool range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0028 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0028 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0028 word=cool range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0029 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0029 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0029 word=cool range=7-9 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0030 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0030 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0030 word=cool range=7-8 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0031 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0031 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0031 word=cool range=9-9 state={"oracle_hit": false, "z_hit": true}
+[position] cool -> 9
+[visit] token=r1773010537-q0032 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0032 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0032 word=dice range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0033 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0033 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0033 word=dice range=1-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0034 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0034 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0034 word=dice range=1-3 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0035 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0035 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0035 word=dice range=1-2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0036 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0036 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0036 word=dice range=1-1 state={"oracle_hit": false, "z_hit": true}
+[position] dice -> 1
+[visit] token=r1773010537-q0037 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0037 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0037 word=friend range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0038 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0038 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0038 word=friend range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0039 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0039 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0039 word=friend range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0040 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0040 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0040 word=friend range=7-9 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0041 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0041 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0041 word=friend range=10-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0042 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0042 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0042 word=friend range=10-11 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0043 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0043 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0043 word=friend range=10-10 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0044 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0044 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0044 word=friend range=11-11 state={"oracle_hit": false, "z_hit": true}
+[position] friend -> 11
+[visit] token=r1773010537-q0045 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0045 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0045 word=group range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0046 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0046 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0046 word=group range=1-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0047 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0047 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0047 word=group range=1-3 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0048 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0048 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0048 word=group range=1-2 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0049 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0049 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0049 word=group range=3-3 state={"oracle_hit": false, "z_hit": true}
+[position] group -> 3
+[visit] token=r1773010537-q0050 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0050 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0050 word=more range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0051 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0051 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0051 word=more range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0052 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0052 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0052 word=more range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0053 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0053 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0053 word=more range=7-9 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0054 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0054 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0054 word=more range=7-8 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0055 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0055 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0055 word=more range=7-7 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0056 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0056 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0056 word=more range=8-8 state={"oracle_hit": false, "z_hit": true}
+[position] more -> 8
+[visit] token=r1773010537-q0057 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0057 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0057 word=square range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0058 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0058 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0058 word=square range=1-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0059 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0059 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0059 word=square range=1-3 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0060 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0060 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0060 word=square range=1-2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0061 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0061 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0061 word=square range=1-1 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0062 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0062 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0062 word=square range=2-2 state={"oracle_hit": false, "z_hit": true}
+[position] square -> 2
+[visit] token=r1773010537-q0063 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0063 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0063 word=then range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0064 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0064 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0064 word=then range=1-6 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0065 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0065 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0065 word=then range=7-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0066 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0066 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0066 word=then range=7-9 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0067 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0067 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0067 word=then range=10-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0068 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0068 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0068 word=then range=10-11 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0069 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0069 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0069 word=then range=10-10 state={"oracle_hit": false, "z_hit": true}
+[position] then -> 10
+[visit] token=r1773010537-q0070 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0070 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0070 word=very range=1-12 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0071 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0071 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0071 word=very range=1-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0072 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0072 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0072 word=very range=1-3 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0073 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0073 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0073 word=very range=4-6 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0074 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0074 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0074 word=very range=4-5 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773010537-q0075 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0075 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0075 word=very range=4-4 state={"oracle_hit": true, "z_hit": true}
+[visit] token=r1773010537-q0076 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773010537-q0076 for up to 45 seconds... (1/3 active)"}
+[query_pos] token=r1773010537-q0076 word=very range=5-5 state={"oracle_hit": false, "z_hit": true}
+[position] very -> 5
+[visit] token=r1773056875-q0001 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773056875-q0001 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773056875-q0001 size=2 state={"oracle_hit": false, "z_hit": true}
+[visit] token=r1773056875-q0002 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773056875-q0002 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773056875-q0002 size=1 state={"oracle_hit": false, "z_hit": true}
+[word] dice
+[visit] token=r1773056875-q0003 {"ok":true,"message":"Visiting http://122.218.146.XXX/payload.html?t=r1773056875-q0003 for up to 45 seconds... (1/3 active)"}
+[query_words] token=r1773056875-q0003 size=1 state={"oracle_hit": true, "z_hit": true}
+[done] found 1 indexed candidate words -> /tmp/test_words_found.txt
